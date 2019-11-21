@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+My name is Nelman Tarigan. I am from Indonesia. It's nice to know about Github...
